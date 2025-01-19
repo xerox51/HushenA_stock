@@ -1,2 +1,2 @@
 # HushenA_stock
-A stock data record generator
+A Chinese Hushen A stock data record generator
